@@ -1,0 +1,17 @@
+2026-10-01 22:45:26 - OPERACIÓN: Se filtraron las canciones para el intérprete ID: 1 (Cerati, Gustavo)
+2026-10-01 22:45:28 - OPERACIÓN: Se filtraron las canciones para el intérprete ID: 2 (Spinetta, Luis Alberto)
+2026-10-01 22:45:31 - OPERACIÓN: Se filtraron las canciones para el intérprete ID: 1 (Cerati, Gustavo)
+2026-10-01 22:48:48 - OPERACION: Filtro realizado para intérprete ID: 1
+2026-10-01 22:48:50 - OPERACION: Filtro realizado para intérprete ID: 2
+2026-10-01 22:48:55 - OPERACION: Filtro realizado para intérprete ID: 1
+2026-10-01 22:49:01 - OPERACION: Filtro realizado para intérprete ID: 2
+01/10/2026 22:52:49 - Consulta del interprete: Cerati, Gustavo
+01/10/2026 22:52:53 - Consulta del interprete: Spinetta, Luis Alberto
+01/10/2026 22:52:55 - Consulta del interprete: Cerati, Gustavo
+01/10/2026 22:53:00 - Consulta del interprete: Cerati, Gustavo
+01/10/2026 22:53:00 - Consulta del interprete: Spinetta, Luis Alberto
+01/10/2026 22:54:56 - Consulta del interprete: Spinetta, Luis Alberto
+01/10/2026 22:54:58 - Consulta del interprete: Cerati, Gustavo
+01/10/2026 22:55:01 - Consulta del interprete: Spinetta, Luis Alberto
+01/10/2026 23:11:20 - Consulta: Ranking de canciones con mas cobros.
+01/10/2026 23:35:44 - Consulta: Ranking de canciones con mas cobros.
